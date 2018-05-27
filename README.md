@@ -6,7 +6,7 @@ This repository aims to manage the tasks for studying additional tech and inspir
 
 - Attend conferences, talks, read books and learn new stuff over Internet develop a prolearner aptitude.
 
-- Knowledge acquisition is better accomplished in several iterations, not only by reading but also writing and mapping the information.
+- Knowledge acquisition is better accomplished in several iterations, not only by reading or watching but also writing and mapping the information.
 
 - Delegate every content on the mind is ineffective. Delegate every content on paper is prone to get lost. Delegate every content in the cloud improves durability, availability and revision.
 
