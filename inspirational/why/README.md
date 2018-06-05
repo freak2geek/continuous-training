@@ -1,8 +1,30 @@
 # Why
 
-## Introduction [TO WRITE]
+## Introduction
 
-## Simon Sinek vision
+This is a study around the "why" usage through several frameworks.
+
+Initially, there is an examination around the technique of 5 ways, as a way to understand that given a problem, there is a chain of causes and effects that leads to conclusions or root causes.
+
+Down below, this paper reviews a framework proposed by Simon Sinek, who has described a conceptual model around "why", with the aim to develop inspiration on decision-making for individuals and organizations, and a trust relationship between them, all based on appealing to the analysis of purposes and beliefs.
+
+## 5 Whys
+
+5 Whys is an interrogative technique that helps to analyze the causes and effects until reaching a single or multiple root causes of a particular problem. Some of the considerations of this technique are:
+
+- The goal is to determine root causes on the subsequent asking of "why" question.
+
+- Normally, 5 questions can lead to solve a problem and therefore find the root causes. Once one of the answers suggests a broken or missing process or an alterable behavior, that can indicate reaching the root-cause level.
+
+- The technique means to avoid assumptions and logic traps. It advances a process to determine a chain of causes from effects until finding a root cause that related with the original problem.
+
+- Avoid to observe classical answers that are out of our control, even being true, such us not enough time, not enough investments, or not enough manpower.
+
+### Quotes
+
+- People do not fail, processes do.
+
+## Simon Sinek framework
 
 - There are two ways to influence the behavior: manipulation and inspiration. The former is based on an outside-in strategy, which drives the influence from facts and language. The latter is based on an inside-out strategy, which transmits the causes and beliefs with the aim to influence in a emotional way inducing to trust, excitement, commitment and loyalty.
 
@@ -40,6 +62,9 @@
 
 ## References
 
+- Read: [5 Whys technique](https://en.m.wikipedia.org/wiki/5_Whys)
+
 - Watch: [Simon Sinek: How great leaders inspire action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action/transcript?language=en#t-846656)
 
 - Read: [Start With Why: How Great Leaders Inspire Everyone To Take Action](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/0241958229/ref=sr_1_2?ie=UTF8&qid=1527658378&sr=8-2&keywords=simon+sinek)
+
