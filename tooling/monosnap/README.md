@@ -29,6 +29,15 @@ Monosnap supports:
 
 ## Tips & Tricks
 
+### Prepare screens to use them on markdown files
+
+- Press "Capture Area + Upload" hotkey (Cmd + Alt + 8)
+- Wait the image to be uploaded to Monosnap
+- Press "Embed" tab and copy markdown format
+- Paste on your markdown file
+
+Watch: [Demo](https://monosnap.com/file/AckI0bjPPl0KEyKBPrVACpBVfGazB7)
+
 ## References
 
 - Check out: [Monosnap site](https://monosnap.com/welcome)
