@@ -1,6 +1,6 @@
 # Building a Platform: Webpack and the Future
 
-*When: 19-07-2018*, *Where: Barcelona*
+*When: 19-07-2018 | 10:20 - 11:00*, *Where: Barcelona*
 
 Speakers: [Sean Larkin](https://jscamp.tech/workshops/webpack-academy/#speaker-1)
 

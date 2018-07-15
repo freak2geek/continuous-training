@@ -1,6 +1,6 @@
 # Webpack Academy
 
-*When: 18-07-2018*, *Where: Barcelona*
+*When: 18-07-2018 | 09:00 - 13:00*, *Where: Barcelona*
 
 Speakers: [Sean Larkin](https://jscamp.tech/workshops/webpack-academy/#speaker-1), [Juho Vepsäläinen](https://jscamp.tech/workshops/webpack-academy/#speaker-2) and [Johannes Ewald](https://jscamp.tech/workshops/webpack-academy/#speaker-3)
 
