@@ -1,6 +1,6 @@
 # Webpack Academy
 
-*When: 15-07-2018*, *Where: Barcelona*
+*When: 18-07-2018*, *Where: Barcelona*
 
 Speakers: [Sean Larkin](https://jscamp.tech/workshops/webpack-academy/#speaker-1), [Juho Vepsäläinen](https://jscamp.tech/workshops/webpack-academy/#speaker-2) and [Johannes Ewald](https://jscamp.tech/workshops/webpack-academy/#speaker-3)
 
@@ -16,7 +16,7 @@ Speakers: [Sean Larkin](https://jscamp.tech/workshops/webpack-academy/#speaker-1
 
 - Get new skills to contribute to Webpack projects, such us custom loaders and plugins, [`meteor-webpack`](https://github.com/ardatan/meteor-webpack) and etc.
 
-## Main points
+## Main ideas
 
 ### Foundation
 
