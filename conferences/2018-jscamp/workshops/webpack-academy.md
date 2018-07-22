@@ -75,11 +75,14 @@ Main concepts for the Webpack process. Entry, Output, Loader, Plugins.
 #### Web performance
 
 Initial download of JS
+
 Initial download of CSS
+
 Network requests on initial download
 
 Code splitting, process of splitting code into pierces of codes that are loaded asyncronously in chuncks.
 Load less code, specially in mobile devices.
+
 Static: Heavy JS, anything temporal, Routes.
 react-loadable
 
