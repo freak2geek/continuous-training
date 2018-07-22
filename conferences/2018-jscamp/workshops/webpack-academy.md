@@ -98,4 +98,4 @@ A spinner is just a sign that you need to improve your web performance
 
 - Fork: [Webpack Course](https://github.com/Gywem/webpack-workshop-2018)
 
--Read: [Learning JavaScript Design Patterns](https://www.amazon.es/Learning-JavaScript-Design-Patterns-Osmani/dp/1449331815/ref=sr_1_1?ie=UTF8&qid=1531899669&sr=8-1&keywords=javascript+design+patterns)
+- Read: [Learning JavaScript Design Patterns](https://www.amazon.es/Learning-JavaScript-Design-Patterns-Osmani/dp/1449331815/ref=sr_1_1?ie=UTF8&qid=1531899669&sr=8-1&keywords=javascript+design+patterns)
