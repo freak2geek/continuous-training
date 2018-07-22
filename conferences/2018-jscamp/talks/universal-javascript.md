@@ -12,10 +12,6 @@ Speakers: [Johannes Ewald](https://jscamp.tech/speakers/johannes-ewald)
 
 ## Main ideas
 
-## Issues on JS apps
+- Universal Javascript. Code can be executed.
 
-### Client
-
-### Server
-
-## References
+- Browser and node (main) exports on npm.

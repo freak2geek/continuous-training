@@ -8,14 +8,14 @@ Speakers: [Benedikt Meurer](https://jscamp.tech/speakers/benedikt-meurer)
 
 - Become aware deeply of JavaScript engines in modern browsers, Node, and Electron. Understanding and possibilities.
 
-## Main ideas
+## Talk ideas
 
-### JS Engines
+- Invest time to learn JS is worth, JS is used everywhere. Browsers, node, and many applications nowdays.
 
-#### Modern browsers
+JS source code => parser => abstract sytax tree => interpreter (produces bycode) => optimizing compiler => optimized code (machine code).
 
-#### Node
+- Different compiler components and flows on JS engines, produce different performance impacts.
 
-#### Electron
+- Generate code quickly vs generating quick code, optimization level vs memory usage
 
-## References
+- Do not mess with prototypes.

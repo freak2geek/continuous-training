@@ -9,11 +9,3 @@ Speakers: [Evan Schultz](https://jscamp.tech/speakers/evan-schultz)
 - Understand data-driven user interfaces, which depend on a configuration object and render dynamically.
 
 - Serve to analyze the usage of data-driven UIs previously in projects.
-
-## Main ideas
-
-### Data-driven UIs
-
-### Vue specialities
-
-## References

@@ -14,18 +14,12 @@ Speakers: [Hassan Djirdeh](https://jscamp.tech/speakers/hassan-djirdeh)
 
 - Compare the features with other client-routing libraries for other environments (like react-router).
 
-## Main ideas
+## Some ideas
 
-## Vue apps
+Client side routing (SPAs)
+Faster routing after initial load
+Smooth transitions and changes
 
-## Client-side routing
-
-### Nested Routes
-
-### Navigation Guards
-
-### Transition effects
-
-### Others
-
-## References
+Server side routing
+First mainingful paint
+ConsistentSEO performance

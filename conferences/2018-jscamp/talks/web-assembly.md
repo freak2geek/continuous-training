@@ -7,7 +7,3 @@ Speakers: [Steve Klabnik](https://jscamp.tech/speakers/steve-klabnik)
 ## Expectations
 
 - Talk to be announced!
-
-## Main ideas
-
-## References

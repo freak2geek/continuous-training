@@ -11,13 +11,3 @@ Speakers: [Kenneth Christiansen](https://jscamp.tech/speakers/kenneth-christians
 - Leran about Service Workers.
 
 - See practicly an example on how to use web assambly to implement a webp decoder, which is shipped as a service worker.
-
-## Main ideas
-
-### Web Assembly
-
-### Service Workers
-
-### Example: webp decoder
-
-## References

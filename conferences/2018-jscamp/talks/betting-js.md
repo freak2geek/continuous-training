@@ -12,9 +12,25 @@ Speakers: [Kyle Simpson](https://jscamp.tech/speakers/kyle-simpson)
 
 ## Main ideas
 
+- The best progress is that one that is incremental
+
 ## JS timeline
 
 ### Past
+
+ES1/ES2 - prototypes
+
+ES3 Clousures
+
+ES4 Classes
+
+ES5 Strict mode
+
+ES6 Huge changes
+
+ES2016
+
+ES2018 async/await, generator
 
 ### Present
 

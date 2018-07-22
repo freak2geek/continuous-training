@@ -11,19 +11,3 @@ Speakers: [Anuj Nair](https://jscamp.tech/speakers/anuj-nair)
 - Understand the pro and cons about using Electron strategy to build the desktop apps.
 
 - Have an real example of an Electron app: Slack. Understand its architecture and any other issue faced on its developing.
-
-## Main ideas
-
-### Electron App
-
-#### Pros
-
-#### Cons
-
-### Example: Slack
-
-#### Architecture
-
-#### Problems
-
-## References

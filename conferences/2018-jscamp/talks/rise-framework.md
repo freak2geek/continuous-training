@@ -8,24 +8,32 @@ Speakers: [Mike Hartington](https://jscamp.tech/speakers/mike-hartington)
 
 - Get an overview about the state of JS by going through the past, present and future.
 
-- Be closed to the [Javascript Revolution talk](https://twitter.com/natiuslife/status/977601257929048064) by Cory House.
-
 - Get ideas on how to improve the decision making of technologies and their configuration. [Too many decisions](https://monosnap.com/file/NMHaWqi5YPSNuUngXsEfHUOhrjov9Z) and then config files...
 
-## Main ideas
+## Talk ideas
 
-### JS Timeline
+- Frustrating too many decision to make a new project.
+- Finding balance point from the webstandars.
+- CSS (global styles, dynamic values), Javascript, Components: Styling, scripting and building blocks.
 
-#### Past
+Native solutions for:
 
-#### Present
+- CSS
 
-#### Future
+Global styles, can affect any component in the DOM, cascade becomes difficult to reason, Reset become a thing.
+CSS-In-JS, CSS modules x. Shadow DOM, isolate component internals, css is scoped, no more global, simplified rules.
+Dynamic values - CSS variables, theming.
 
-### Tips on tech decision making
+- Javascript
 
-### Tips on tech configuration
+Evolves so fast. Fatigue on configure your enviroment. Consider old browser support. Use native module notation `<script type="module" />`.
 
-## References
+- Components.
 
-- Watch: [The Reusable JavaScript Revolution - talk by Cory House](https://www.youtube.com/watch?v=ddygEMBOXB4)
+React VS Angular VS Vue. Different Framework and API.
+Support natively, the CUSTOM ELEMENTS, no framework needed.
+Natively support may be functional but is a hard syntax to work out.
+
+Frameworks like Angular, Vue try to translate a framework-specific component definition into a native WebComponent. React isn't shipping this feature for the moment.
+
+- Frameworks are not going last forever. What can do webstandards today?

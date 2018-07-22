@@ -8,22 +8,4 @@ Speakers: [Michaela Lehr](https://jscamp.tech/speakers/michaela-lehr)
 
 - Introduce myself for the first time to 3D web: WebGL API and design patterns.
 
-- Understand the timeline of the 3D web, how has it evolved and which are the future challenges. 
-
-## Main ideas
-
-## 3D Web timeline
-
-### Past
-
-### Present
-
-### Future
-
-## 3D Web
-
-### WebGL API
-
-### Design patterns
-
-## References
+- Understand the timeline of the 3D web, how has it evolved and which are the future challenges.
