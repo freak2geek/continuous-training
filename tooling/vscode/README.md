@@ -8,6 +8,7 @@ This document gather an opinionanted setup for [VSCode](https://en.wikipedia.org
         - [Editor enhancements](#editor-enhancements)
             - [Better Comments](#better-comments)
             - [Better Whitespace](#better-whitespace)
+            - [Bookmarks](#bookmarks)
             - [Color Highlight](#color-highlight)
             - [Duplicate action](#duplicate-action)
             - [Import Cost](#import-cost)
@@ -63,49 +64,83 @@ The recommended version is to get the [VSCode Insiders Edition](https://code.vis
 
 #### Better Comments
 
+- Improve the code commenting colors by highlighning the alerts, informational, TODO, and more.
+
 Check out: [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 
 #### Better Whitespace
 
+- Improve the whitespace and tab awareness by rendering them on selection.
+
 Check out: [Better Whitespace](https://marketplace.visualstudio.com/items?itemName=chmln.better-whitespace)
 
+#### Bookmarks
+
+- Manage bookmarks on the code being able to visit them using quick actions.
+
+Check out: [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
+
 #### Color Highlight
+
+- Highlight the colors used on your files.
 
 Check out: [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 
 #### Duplicate action
 
+- Ability to duplicate files and directories.
+
 Check out: [Duplicate action](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-duplicate)
 
 #### Import Cost
+
+- Display the size of each imported module.
 
 Check out: [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 
 #### Indent Rainbow
 
+- Colorize the indentation in front of your text alternating four different colors on each step.
+
 Check out: [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 
 #### Material Icon Theme
+
+- Replace file and folder icons to use Material Design ones.
+
+- Support fully customization enabling you to tweak the icon associations, opacity and more.
 
 Check out: [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
 #### Open in Browser
 
+- Support a command to open current html files in any browser you configure.
+
 Check out: [Open in Browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser)
 
 #### Path Intellisense
+
+- Autocomplate import paths from the file system.
+
+- Support custom mapping, which is useful to enable intellistense for custom aliasses or resolutions.
 
 Check out: [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 
 #### Rainbow Brackets
 
+- Add colors to any kind of brackets used on the code. This is useful to understand the different scopes created, and where these start and end.
+
 Check out: [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
 
 #### Settings Sync
 
+// TODO: Write the purpose and why is useful on support vscode setting sharing.
+
 Check out: [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 
 #### Workbench
+
+- Keep a list of favorite files and navigate between them with a quick action (`Alt + Q`).
 
 Check out: [Workbench](https://marketplace.visualstudio.com/items?itemName=andrew-lis.workbench)
 
