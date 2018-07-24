@@ -22,7 +22,6 @@ This document gather an opinionanted setup for [VSCode](https://en.wikipedia.org
         - [Code Style and Snippets](#code-style-and-snippets)
             - [Console Wrapper](#console-wrapper)
             - [Document This](#document-this)
-            - [HTML Snippets](#html-snippets)
             - [Markdown All in One](#markdown-all-in-one)
         - [Linters, Formatting and Syntax Highlighting](#linters-formatting-and-syntax-highlighting)
             - [DotENV](#dotenv)
@@ -41,10 +40,8 @@ This document gather an opinionanted setup for [VSCode](https://en.wikipedia.org
             - [Git Commitizen](#git-commitizen)
         - [Tecnology integration](#tecnology-integration)
             - [Meteor](#meteor)
-            - [NPM](#npm)
             - [NPM Intellisense](#npm-intellisense)
             - [Version Lens](#version-lens)
-            - [Yarn](#yarn)
         - [Themes](#themes)
             - [One Dark Pro](#one-dark-pro)
     - [Tips & Tricks](#tips--tricks)
@@ -120,7 +117,7 @@ Check out: [Open in Browser](https://marketplace.visualstudio.com/items?itemName
 
 #### Path Intellisense
 
-- Autocomplate import paths from the file system.
+- Autocomplete import paths from the file system.
 
 - Support custom mapping, which is useful to enable intellistense for custom aliasses or resolutions.
 
@@ -148,17 +145,19 @@ Check out: [Workbench](https://marketplace.visualstudio.com/items?itemName=andre
 
 #### Console Wrapper
 
+- Wrap variables automatically to be logged using `console.log` (Cntr+Q).
+
 Check out: [Console Wrapper](https://marketplace.visualstudio.com/items?itemName=fabiodam.vscode-console-wrapper)
 
 #### Document This
 
+- Generate detailed JSDoc comments in JS files.
+
 Check out: [Document This](https://marketplace.visualstudio.com/items?itemName=joelday.docthis)
 
-#### HTML Snippets
-
-Check out: [HTML Snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets)
-
 #### Markdown All in One
+
+- Support a bunch of features around Markdown writting: keyboard shortcuts, table of contents, auto preview and more.
 
 Check out: [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
@@ -166,25 +165,39 @@ Check out: [Markdown All in One](https://marketplace.visualstudio.com/items?item
 
 #### DotENV
 
+- Support for dotenv file syntax.
+
 Check out: [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 
 #### ESLint
+
+- Integrates ESLint JavaScript into VS Code.
 
 Check out: [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
 #### Gremlins
 
+- Reveals some characters that can be harmful because they are invisible or looking like legitimate ones.
+
+- Act on zero-width and non-breaking spaces, left and right double quotation marks and other possible harming characters.
+
 Check out: [Gremlins](https://marketplace.visualstudio.com/items?itemName=nhoizey.gremlins)
 
 #### Markdownlint
+
+- Support linter rules for markdown files.
 
 Check out: [Markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
 #### Prettier
 
+- Support prettier format to enforce it in the project files.
+
 Check out: [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 #### Trailing Spaces
+
+- Clean automatically any trailing space in the file.
 
 Check out: [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces)
 
@@ -222,27 +235,31 @@ Check out: [Git Commitizen](https://marketplace.visualstudio.com/items?itemName=
 
 #### Meteor
 
+- Provide autocompletion of Meteor API.
+
 Check out: [Meteor](https://marketplace.visualstudio.com/items?itemName=vuhrmeister.vscode-meteor)
 
-#### NPM
-
-Check out: [NPM](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
-
 #### NPM Intellisense
+
+- Provide autocompletion of NPM dependencies in import statements.
+
+- Support autocompletion of subfolders within a NPM dependency.
 
 Check out: [NPM Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 
 #### Version Lens
 
+- Provide the version information of the project dependencies.
+
+- Enable you to change automatically the version to latest, but the installation has to be done automatically.
+
 Check out: [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
-
-#### Yarn
-
-Check out: [Yarn](https://marketplace.visualstudio.com/items?itemName=gamunu.vscode-yarn)
 
 ### Themes
 
 #### One Dark Pro
+
+- Simply beautiful!
 
 Check out: [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 
