@@ -1,107 +1,91 @@
-# Virtual Studio Code
+# Extensions
 
-This document gather an opinionanted setup for [VSCode](https://en.wikipedia.org/wiki/Visual_Studio_Code). The purpose is to have a list of resources useful to improve productivity for the projects.
+- [Extensions](#extensions)
+    - [Editor enhancements](#editor-enhancements)
+        - [Better Comments](#better-comments)
+        - [Better Whitespace](#better-whitespace)
+        - [Bookmarks](#bookmarks)
+        - [Color Highlight](#color-highlight)
+        - [Duplicate action](#duplicate-action)
+        - [Import Cost](#import-cost)
+        - [Indent Rainbow](#indent-rainbow)
+        - [Material Icon Theme](#material-icon-theme)
+        - [Open in Browser](#open-in-browser)
+        - [Path Intellisense](#path-intellisense)
+        - [Rainbow Brackets](#rainbow-brackets)
+        - [Settings Sync](#settings-sync)
+        - [Workbench](#workbench)
+    - [Code Style and Snippets](#code-style-and-snippets)
+        - [Console Wrapper](#console-wrapper)
+        - [Document This](#document-this)
+        - [Markdown All in One](#markdown-all-in-one)
+    - [Linters, Formatting and Syntax Highlighting](#linters-formatting-and-syntax-highlighting)
+        - [DotENV](#dotenv)
+        - [ESLint](#eslint)
+        - [Gremlins](#gremlins)
+        - [Markdownlint](#markdownlint)
+        - [Prettier](#prettier)
+        - [Trailing Spaces](#trailing-spaces)
+    - [Git Integration](#git-integration)
+        - [Git Blame](#git-blame)
+        - [Git History](#git-history)
+        - [gitflow](#gitflow)
+        - [GitHub](#github)
+        - [gitignore](#gitignore)
+        - [GitLens](#gitlens)
+        - [Git Commitizen](#git-commitizen)
+    - [Tecnology integration](#tecnology-integration)
+        - [Meteor](#meteor)
+        - [NPM Intellisense](#npm-intellisense)
+        - [Version Lens](#version-lens)
+    - [Themes](#themes)
+        - [One Dark Pro](#one-dark-pro)
 
-- [Virtual Studio Code](#virtual-studio-code)
-    - [Installation](#installation)
-    - [Plugins](#plugins)
-        - [Editor enhancements](#editor-enhancements)
-            - [Better Comments](#better-comments)
-            - [Better Whitespace](#better-whitespace)
-            - [Bookmarks](#bookmarks)
-            - [Color Highlight](#color-highlight)
-            - [Duplicate action](#duplicate-action)
-            - [Import Cost](#import-cost)
-            - [Indent Rainbow](#indent-rainbow)
-            - [Material Icon Theme](#material-icon-theme)
-            - [Open in Browser](#open-in-browser)
-            - [Path Intellisense](#path-intellisense)
-            - [Rainbow Brackets](#rainbow-brackets)
-            - [Settings Sync](#settings-sync)
-            - [Workbench](#workbench)
-        - [Code Style and Snippets](#code-style-and-snippets)
-            - [Console Wrapper](#console-wrapper)
-            - [Document This](#document-this)
-            - [Markdown All in One](#markdown-all-in-one)
-        - [Linters, Formatting and Syntax Highlighting](#linters-formatting-and-syntax-highlighting)
-            - [DotENV](#dotenv)
-            - [ESLint](#eslint)
-            - [Gremlins](#gremlins)
-            - [Markdownlint](#markdownlint)
-            - [Prettier](#prettier)
-            - [Trailing Spaces](#trailing-spaces)
-        - [Git Integration](#git-integration)
-            - [Git Blame](#git-blame)
-            - [Git History](#git-history)
-            - [gitflow](#gitflow)
-            - [GitHub](#github)
-            - [gitignore](#gitignore)
-            - [GitLens](#gitlens)
-            - [Git Commitizen](#git-commitizen)
-        - [Tecnology integration](#tecnology-integration)
-            - [Meteor](#meteor)
-            - [NPM Intellisense](#npm-intellisense)
-            - [Version Lens](#version-lens)
-        - [Themes](#themes)
-            - [One Dark Pro](#one-dark-pro)
-    - [Tips & Tricks](#tips--tricks)
-    - [References](#references)
+## Editor enhancements
 
-## Installation
-
-The recommended version is to get the [VSCode Insiders Edition](https://code.visualstudio.com/insiders/) as:
-
-\+ Get you updated with new features and performance improvements
-
-\- Get you with an unstable version that could introduce issues
-
-## Plugins
-
-### Editor enhancements
-
-#### Better Comments
+### Better Comments
 
 - Improve the code commenting colors by highlighning the alerts, informational, TODO, and more.
 
 Check out: [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 
-#### Better Whitespace
+### Better Whitespace
 
 - Improve the whitespace and tab awareness by rendering them on selection.
 
 Check out: [Better Whitespace](https://marketplace.visualstudio.com/items?itemName=chmln.better-whitespace)
 
-#### Bookmarks
+### Bookmarks
 
 - Manage bookmarks on the code being able to visit them using quick actions.
 
 Check out: [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 
-#### Color Highlight
+### Color Highlight
 
 - Highlight the colors used on your files.
 
 Check out: [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 
-#### Duplicate action
+### Duplicate action
 
 - Ability to duplicate files and directories.
 
 Check out: [Duplicate action](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-duplicate)
 
-#### Import Cost
+### Import Cost
 
 - Display the size of each imported module.
 
 Check out: [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 
-#### Indent Rainbow
+### Indent Rainbow
 
 - Colorize the indentation in front of your text alternating four different colors on each step.
 
 Check out: [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 
-#### Material Icon Theme
+### Material Icon Theme
 
 - Replace file and folder icons to use Material Design ones.
 
@@ -109,13 +93,13 @@ Check out: [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=
 
 Check out: [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
-#### Open in Browser
+### Open in Browser
 
 - Support a command to open current html files in any browser you configure.
 
 Check out: [Open in Browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser)
 
-#### Path Intellisense
+### Path Intellisense
 
 - Autocomplete import paths from the file system.
 
@@ -123,59 +107,59 @@ Check out: [Open in Browser](https://marketplace.visualstudio.com/items?itemName
 
 Check out: [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 
-#### Rainbow Brackets
+### Rainbow Brackets
 
 - Add colors to any kind of brackets used on the code. This is useful to understand the different scopes created, and where these start and end.
 
 Check out: [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
 
-#### Settings Sync
+### Settings Sync
 
 // TODO: Write the purpose and why is useful on support vscode setting sharing.
 
 Check out: [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 
-#### Workbench
+### Workbench
 
 - Keep a list of favorite files and navigate between them with a quick action (`Alt + Q`).
 
 Check out: [Workbench](https://marketplace.visualstudio.com/items?itemName=andrew-lis.workbench)
 
-### Code Style and Snippets
+## Code Style and Snippets
 
-#### Console Wrapper
+### Console Wrapper
 
 - Wrap variables automatically to be logged using `console.log` (Cntr+Q).
 
 Check out: [Console Wrapper](https://marketplace.visualstudio.com/items?itemName=fabiodam.vscode-console-wrapper)
 
-#### Document This
+### Document This
 
 - Generate detailed JSDoc comments in JS files.
 
 Check out: [Document This](https://marketplace.visualstudio.com/items?itemName=joelday.docthis)
 
-#### Markdown All in One
+### Markdown All in One
 
 - Support a bunch of features around Markdown writting: keyboard shortcuts, table of contents, auto preview and more.
 
 Check out: [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
-### Linters, Formatting and Syntax Highlighting
+## Linters, Formatting and Syntax Highlighting
 
-#### DotENV
+### DotENV
 
 - Support for dotenv file syntax.
 
 Check out: [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 
-#### ESLint
+### ESLint
 
 - Integrates ESLint JavaScript into VS Code.
 
 Check out: [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
-#### Gremlins
+### Gremlins
 
 - Reveals some characters that can be harmful because they are invisible or looking like legitimate ones.
 
@@ -183,63 +167,63 @@ Check out: [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer
 
 Check out: [Gremlins](https://marketplace.visualstudio.com/items?itemName=nhoizey.gremlins)
 
-#### Markdownlint
+### Markdownlint
 
 - Support linter rules for markdown files.
 
 Check out: [Markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
-#### Prettier
+### Prettier
 
 - Support prettier format to enforce it in the project files.
 
 Check out: [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-#### Trailing Spaces
+### Trailing Spaces
 
 - Clean automatically any trailing space in the file.
 
 Check out: [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces)
 
-### Git Integration
+## Git Integration
 
-#### Git Blame
+### Git Blame
 
 Check out: [Git Blame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame)
 
-#### Git History
+### Git History
 
 Check out: [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 
-#### gitflow
+### gitflow
 
 Check out: [gitflow](https://marketplace.visualstudio.com/items?itemName=vector-of-bool.gitflow)
 
-#### GitHub
+### GitHub
 
 Check out: [GitHub](https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-github)
 
-#### gitignore
+### gitignore
 
 Check out: [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)
 
-#### GitLens
+### GitLens
 
 Check out: [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
-#### Git Commitizen
+### Git Commitizen
 
 Check out: [Git Commitizen](https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-commitizen)
 
-### Tecnology integration
+## Tecnology integration
 
-#### Meteor
+### Meteor
 
 - Provide autocompletion of Meteor API.
 
 Check out: [Meteor](https://marketplace.visualstudio.com/items?itemName=vuhrmeister.vscode-meteor)
 
-#### NPM Intellisense
+### NPM Intellisense
 
 - Provide autocompletion of NPM dependencies in import statements.
 
@@ -247,7 +231,7 @@ Check out: [Meteor](https://marketplace.visualstudio.com/items?itemName=vuhrmeis
 
 Check out: [NPM Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 
-#### Version Lens
+### Version Lens
 
 - Provide the version information of the project dependencies.
 
@@ -255,20 +239,10 @@ Check out: [NPM Intellisense](https://marketplace.visualstudio.com/items?itemNam
 
 Check out: [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
 
-### Themes
+## Themes
 
-#### One Dark Pro
+### One Dark Pro
 
 - Simply beautiful!
 
 Check out: [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
-
-## Tips & Tricks
-
-## References
-
-- Read: [VSCode Wikipedia](https://en.wikipedia.org/wiki/Visual_Studio_Code)
-
-- Check out: [VScode site](https://code.visualstudio.com/)
-
-- Print: [VSCode shortcuts for macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
