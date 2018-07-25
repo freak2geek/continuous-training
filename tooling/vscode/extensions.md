@@ -12,6 +12,7 @@
         - [Material Icon Theme](#material-icon-theme)
         - [Open in Browser](#open-in-browser)
         - [Path Intellisense](#path-intellisense)
+        - [Project Manager](#project-manager)
         - [Rainbow Brackets](#rainbow-brackets)
         - [Settings Sync](#settings-sync)
         - [Workbench](#workbench)
@@ -27,13 +28,12 @@
         - [Prettier](#prettier)
         - [Trailing Spaces](#trailing-spaces)
     - [Git Integration](#git-integration)
-        - [Git Blame](#git-blame)
+        - [Git Commitizen](#git-commitizen)
+        - [Gitflow](#gitflow)
         - [Git History](#git-history)
-        - [gitflow](#gitflow)
         - [GitHub](#github)
         - [gitignore](#gitignore)
         - [GitLens](#gitlens)
-        - [Git Commitizen](#git-commitizen)
     - [Tecnology integration](#tecnology-integration)
         - [Meteor](#meteor)
         - [NPM Intellisense](#npm-intellisense)
@@ -106,6 +106,12 @@ Check out: [Open in Browser](https://marketplace.visualstudio.com/items?itemName
 - Support custom mapping, which is useful to enable intellistense for custom aliasses or resolutions.
 
 Check out: [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+
+### Project Manager
+
+- Help to manage your projects and to switch between them easily.
+
+Check out: [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 
 ### Rainbow Brackets
 
@@ -187,33 +193,41 @@ Check out: [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName
 
 ## Git Integration
 
-### Git Blame
+### Git Commitizen
 
-Check out: [Git Blame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame)
+- Support to write conventional commits via a prompt.
+
+Check out: [Git Commitizen](https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-commitizen)
+
+### Gitflow
+
+- Support commands to manage the [gitflow](https://github.com/nvie/gitflow) convention.
+
+Check out: [Gitflow](https://marketplace.visualstudio.com/items?itemName=vector-of-bool.gitflow)
 
 ### Git History
 
+- View git log, file history, compare branches or commits.
+
 Check out: [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 
-### gitflow
-
-Check out: [gitflow](https://marketplace.visualstudio.com/items?itemName=vector-of-bool.gitflow)
-
 ### GitHub
+
+- Integrates github and its workflows.
 
 Check out: [GitHub](https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-github)
 
 ### gitignore
 
+- Add automatically and support the language for gitignore files.
+
 Check out: [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)
 
 ### GitLens
 
+- Extend git integration providing useful capabilities within the editor. It helps you to visualize code authorship at a glance via inline Git blame annotations and code lens, seamlessly navigate and explore the history of a file or branch, gain valuable insights via powerful comparision commands, and so much more.
+
 Check out: [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-
-### Git Commitizen
-
-Check out: [Git Commitizen](https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-commitizen)
 
 ## Tecnology integration
 
