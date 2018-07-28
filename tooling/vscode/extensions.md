@@ -124,7 +124,9 @@ Check out: [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemNam
 
 ### Settings Sync
 
-// TODO: Write the purpose and why is useful on support vscode setting sharing.
+- Create and synchronize a shared configuration of your VSCode setup.
+
+- Includes the sync of settings file, keybinding file, launch file, snippets Folder, VSCode Extensions Settings and workspaces folder.
 
 Check out: [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 

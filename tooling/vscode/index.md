@@ -6,6 +6,7 @@ This document gather an opinionanted setup for [VSCode](https://en.wikipedia.org
     - [Installation](#installation)
     - [Extensions](#extensions)
     - [Tips & Tricks](#tips--tricks)
+    - [Shared settings](#shared-settings)
     - [References](#references)
 
 ## Installation
@@ -23,6 +24,10 @@ Check out the [extensions](extensions).
 ## Tips & Tricks
 
 Check out the [tips & tricks](tips-tricks).
+
+## Shared settings
+
+Check out [shared settings](shared-settings).
 
 ## References
 
