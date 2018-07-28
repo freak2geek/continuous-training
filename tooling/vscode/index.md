@@ -1,6 +1,6 @@
 # Virtual Studio Code
 
-This document gather an opinionanted setup for [VSCode](https://en.wikipedia.org/wiki/Visual_Studio_Code). The purpose is to have a list of resources useful to improve productivity for the projects.
+[VSCode](https://en.wikipedia.org/wiki/Visual_Studio_Code) is the editor optimized to work within Freak2Geek projects. In this section, you find the steps you need to set up the editor and its conventional configuration for your environment. The purpose of this document is also to have resources to improve the usage of the editor and then the productivity for the projects.
 
 - [Virtual Studio Code](#virtual-studio-code)
     - [Installation](#installation)
