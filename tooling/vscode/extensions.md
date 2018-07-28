@@ -25,6 +25,9 @@
         - [ESLint](#eslint)
         - [Gremlins](#gremlins)
         - [Markdownlint](#markdownlint)
+        - [Sort JSON objects](#sort-json-objects)
+        - [Sort JS object keys](#sort-js-object-keys)
+        - [Sort lines](#sort-lines)
         - [Prettier](#prettier)
         - [Trailing Spaces](#trailing-spaces)
     - [Git Integration](#git-integration)
@@ -178,6 +181,24 @@ Check out: [Gremlins](https://marketplace.visualstudio.com/items?itemName=nhoize
 - Support linter rules for markdown files.
 
 Check out: [Markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+
+### Sort JSON objects
+
+- Enable to re-order JSON objects
+
+Check out: [Sort JSON objects](https://marketplace.visualstudio.com/items?itemName=richie5um2.vscode-sort-json)
+
+### Sort JS object keys
+
+- Enable to re-order JS objects
+
+Check out: [Sort JS object keys](https://marketplace.visualstudio.com/items?itemName=zengxingxin.sort-js-object-keys)
+
+### Sort lines
+
+- Enable to re-order lines
+
+Check out: [Sort lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
 
 ### Prettier
 
