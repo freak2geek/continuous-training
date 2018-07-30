@@ -11,7 +11,7 @@
 
 ## Installation
 
-The recommended version is to get the [VSCode Insiders Edition](https://code.visualstudio.com/insiders/) as:
+The recommended version is to get the [VSCode Insiders Edition](https://code.visualstudio.com/insiders/).
 
 \+ Get you updated with new features and performance improvements
 
