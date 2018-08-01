@@ -30,7 +30,7 @@ A container is the Docker's component that packs and run your application in a i
 
 - When a container is removed, any changes to its local state that are not stored in persistent storage disappear.
 
-##### Virtual machine vs Container
+#### Virtual machine vs Container
 
 ![Virtual Machine vs container](https://monosnap.com/image/TSj7FG6m3fhk8HWD9N8Ofb8Pva2dCV.png)
 
@@ -45,6 +45,8 @@ Each instruction in a Dockerfile creates a layer in the image. When you change t
 ![Image](https://monosnap.com/image/gbdxcUl0jOz3J0rdFeAJsdwQBpwq4t.png)
 
 ![Image flow](https://monosnap.com/image/deLJ9kxFSLMAqxJ55EboR56wtKGjgf.png)
+
+![Container vs Images](https://monosnap.com/image/aqnG6q9bjoXfKexwxWwTb2LyAlYBxo.png)
 
 ### Services
 
@@ -113,3 +115,7 @@ A facility to write in a single file and run all the container instances to run 
 - Check out: [Docker overview](https://docs.docker.com/engine/docker-overview/#control-groups)
 
 - Watch: [First Docker course of basics](https://www.youtube.com/watch?v=YFl2mCHdv24), [Docker compose](https://www.youtube.com/watch?v=Qw9zlE3t8Ko) and [Deploy Docker containers with Docker Cloud](https://www.youtube.com/watch?v=F82K07NmRpk)
+
+- Watch: [Execute containers and commands within the running containers](https://www.youtube.com/watch?v=_cSn1HcykYY&index=10&list=PLn5IkU1ZhgiZl4EH7AFkqs-pqF6ZUz_iS), [List stopped containers](https://www.youtube.com/watch?v=INqmK7rSaH8&list=PLn5IkU1ZhgiZl4EH7AFkqs-pqF6ZUz_iS&index=13), [Interactive containers](https://www.youtube.com/watch?v=NZdH12tFN6A&list=PLn5IkU1ZhgiZl4EH7AFkqs-pqF6ZUz_iS&index=14) and [Exit without stopping container and attach to running containers](https://www.youtube.com/watch?v=FnANuSh1syI&index=16&list=PLn5IkU1ZhgiZl4EH7AFkqs-pqF6ZUz_iS).
+
+- Print: [Cheetsheet for Docker CLI](https://www.docker.com/sites/default/files/Docker_CheatSheet_08.09.2016_0.pdf), [Another cheetsheet for Docker CLI](http://files.zeroturnaround.com/pdf/zt_docker_cheat_sheet.pdf) and [Cheetsheet for Dockerfile](https://kapeli.com/cheat_sheets/Dockerfile.docset/Contents/Resources/Documents/index)
