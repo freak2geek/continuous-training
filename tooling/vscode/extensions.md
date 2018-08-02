@@ -38,6 +38,7 @@
         - [gitignore](#gitignore)
         - [GitLens](#gitlens)
     - [Tecnology integration](#tecnology-integration)
+        - [Docker](#docker)
         - [Meteor](#meteor)
         - [NPM Intellisense](#npm-intellisense)
         - [Version Lens](#version-lens)
@@ -253,6 +254,12 @@ Check out: [gitignore](https://marketplace.visualstudio.com/items?itemName=codez
 Check out: [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
 ## Tecnology integration
+
+### Docker
+
+- Adds syntax highlighting, commands, hover tips, and linting for Dockerfile and docker-compose files.
+
+Check out: [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
 
 ### Meteor
 
