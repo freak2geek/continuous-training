@@ -118,4 +118,6 @@ A facility to write in a single file and run all the container instances to run 
 
 - Watch: [Execute containers and commands within the running containers](https://www.youtube.com/watch?v=_cSn1HcykYY&index=10&list=PLn5IkU1ZhgiZl4EH7AFkqs-pqF6ZUz_iS), [List stopped containers](https://www.youtube.com/watch?v=INqmK7rSaH8&list=PLn5IkU1ZhgiZl4EH7AFkqs-pqF6ZUz_iS&index=13), [Interactive containers](https://www.youtube.com/watch?v=NZdH12tFN6A&list=PLn5IkU1ZhgiZl4EH7AFkqs-pqF6ZUz_iS&index=14) and [Exit without stopping container and attach to running containers](https://www.youtube.com/watch?v=FnANuSh1syI&index=16&list=PLn5IkU1ZhgiZl4EH7AFkqs-pqF6ZUz_iS).
 
-- Print: [Cheetsheet for Docker CLI](https://www.docker.com/sites/default/files/Docker_CheatSheet_08.09.2016_0.pdf), [Another cheetsheet for Docker CLI](http://files.zeroturnaround.com/pdf/zt_docker_cheat_sheet.pdf) and [Cheetsheet for Dockerfile](https://kapeli.com/cheat_sheets/Dockerfile.docset/Contents/Resources/Documents/index)
+- Play: [Interactive tutorial to manage containers lifecycle](https://play.instruqt.com/public/tracks/docker-container-lifecycle)
+
+- Print: [Cheatsheet for Docker CLI](https://www.docker.com/sites/default/files/Docker_CheatSheet_08.09.2016_0.pdf), [Another cheatsheet for Docker CLI](http://files.zeroturnaround.com/pdf/zt_docker_cheat_sheet.pdf), [Cheatsheet for Dockerfile](https://kapeli.com/cheat_sheets/Dockerfile.docset/Contents/Resources/Documents/index) and [Cheatsheet for docker-compose](https://devhints.io/docker-compose)
