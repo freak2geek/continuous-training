@@ -120,4 +120,6 @@ A facility to write in a single file and run all the container instances to run 
 
 - Play: [Interactive tutorial to manage containers lifecycle](https://play.instruqt.com/public/tracks/docker-container-lifecycle)
 
+- Read: [Use docker-compose](https://docs.docker.com/compose/gettingstarted/#where-to-go-next)
+
 - Print: [Cheatsheet for Docker CLI](https://www.docker.com/sites/default/files/Docker_CheatSheet_08.09.2016_0.pdf), [Another cheatsheet for Docker CLI](http://files.zeroturnaround.com/pdf/zt_docker_cheat_sheet.pdf), [Cheatsheet for Dockerfile](https://kapeli.com/cheat_sheets/Dockerfile.docset/Contents/Resources/Documents/index) and [Cheatsheet for docker-compose](https://devhints.io/docker-compose)
