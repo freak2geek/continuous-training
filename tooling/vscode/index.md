@@ -1,8 +1,8 @@
-# Virtual Studio Code
+# To Edit Code: Virtual Studio Code
 
 [VSCode](https://en.wikipedia.org/wiki/Visual_Studio_Code) is the editor optimized to work within Freak2Geek projects. In this section, you find the steps you need to set up the editor and its conventional configuration for your environment. The purpose of this document is also to have resources to improve the usage of the editor and then the productivity for the projects.
 
-- [Virtual Studio Code](#virtual-studio-code)
+- [To Edit Code: Virtual Studio Code](#to-edit-code-virtual-studio-code)
     - [Installation](#installation)
     - [Shared settings](#shared-settings)
     - [Extensions](#extensions)
@@ -12,10 +12,6 @@
 ## Installation
 
 The recommended version is to get the [VSCode Insiders Edition](https://code.visualstudio.com/insiders/).
-
-\+ Get you updated with new features and performance improvements
-
-\- Get you with an unstable version that could introduce issues
 
 ## Shared settings
 
