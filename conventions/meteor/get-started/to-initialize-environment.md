@@ -20,14 +20,10 @@ Having Zsh and working within a OSX environment, it is easy to install all host 
 
 > IMPORTANT: Install ZSH and the zshrc plugin manually previously!
 
-- Open a terminal instance within the project root
-
-- Run `install-host` command
+- Run `install-host` command on the project root
 
 ### Manually
 
 - Get all dependencies listed above by following the intructions on each of the links.
-
-- Open a terminal instance within the project root
 
 - Run `yarn install` on the project root
