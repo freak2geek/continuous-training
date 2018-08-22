@@ -19,7 +19,7 @@ To use the shared configuration file prepared to work optimally with VSCode you 
 
 - Install the ["Settings Sync"](extensions.md#settings-sync) extension.
 
-- Check out the instructions from ["Download the settings"](https://github.com/shanalikhan/code-settings-sync#download-your-settings) section. Use "Sync: AdvancedOptions / Sync: Download Settings from Public GIST" instead. 
+- Run "Sync: Advanced Options / Sync: Download Settings from Public GIST" command.
 
 - Use "93e0952f730be165c3752c069352366a" as the Gist ID for the settings.
 
@@ -38,3 +38,5 @@ Check out the [tips & tricks](tips-tricks.md).
 - Check out: [VScode site](https://code.visualstudio.com/)
 
 - Print: [VSCode shortcuts for macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+
+- Check out: [Instructions to download settings](https://github.com/shanalikhan/code-settings-sync#download-your-settings)
