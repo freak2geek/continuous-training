@@ -19,7 +19,7 @@ To use the shared configuration file prepared to work optimally with VSCode you 
 
 - Install the ["Settings Sync"](extensions.md#settings-sync) extension.
 
-- Follow the instructions to ["Download the settings"](https://github.com/shanalikhan/code-settings-sync#download-your-settings) section.
+- Check out the instructions from ["Download the settings"](https://github.com/shanalikhan/code-settings-sync#download-your-settings) section. Use "Sync: AdvancedOptions / Sync: Download Settings from Public GIST" instead. 
 
 - Use "93e0952f730be165c3752c069352366a" as the Gist ID for the settings.
 
