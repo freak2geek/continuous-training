@@ -42,10 +42,14 @@ Jest is a test infrastructure which features in:
 
     2 - `coverageThreshold`, ensure better coverage.
 
-- Snapshot, `expect(output).toMatchSnapshot`. The snapshot are genrated automatically within `__snapthots__/` folder.
+- Snapshot, `expect(output).toMatchSnapshot`. The snapshot are genrated automatically within `__snapshots__/` folder.
+
+- Can include enzyme and the adapter for the react version in order to help on the rendering of react components.
 
 ## References
 
 - Check out: [Jest site](https://jestjs.io/)
 
 - Watch: Jest basic course: [1](https://egghead.io/lessons/javascript-test-javascript-with-jest), [2](https://egghead.io/lessons/javascript-add-babel-integration-with-jest), [3](https://egghead.io/lessons/typescript-getting-started-with-jest-using-typescript), [4](https://egghead.io/lessons/javascript-use-jest-s-interactive-watch-mode), [5](https://egghead.io/lessons/javascript-track-project-code-coverage-with-jest) and [6](https://egghead.io/lessons/javascript-use-jest-s-snapshot-testing-feature).
+
+- Read: [Mock API](https://jestjs.io/docs/en/mock-function-api.html)
